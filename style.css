@@ -1,0 +1,11 @@
+
+
+.origami {
+   
+    
+    display: flex; flex-wrap: wrap; font-family: sans-serif;
+}
+
+.item {
+    border-radius: 20px; background-color: white; width:310px; font-family: fantasy;
+}
